@@ -1,0 +1,124 @@
+{
+        "Questions": [
+        {
+            "Question": "Which of the following is not JavaScript Data Types?",
+            "1": "Undefined",
+            "2": "Number",
+            "3": "Boolean",
+            "4": "Float",
+            "Correct": 4
+        },
+        {
+            "Question": "JavaScript is designed for following purpose -",
+            "1": "to style HTML pages",
+            "2": "to execute Queries related to databases on a server",
+            "3": "to add interactivity to html pages",
+            "4": "All of the above",
+            "Correct": 4
+        },
+        {
+            "Question": "Among the following, which one is a ternary operator in JavaScript?",
+            "1": "#",
+            "2": "::",
+            "3": "&:",
+            "4": "?:",
+            "Correct": 4
+        },
+        {
+            "Question": "Which symbol is used for comments in Javascript?",
+            "1": "\\\\",
+            "2": "//",
+            "3": "\\* *\\",
+            "4": "\\* */",
+            "Correct": 2
+        },
+        {
+            "Question": "What is defination of an undefined value in JavaScript?",
+            "1": "Variable used in the code doesn't exist",
+            "2": "Variable is not assigned to any value",
+            "3": "Property doesn't exist",
+            "4": "All of the above",
+            "Correct": 4
+        },
+        {
+            "Question": "JavaScript entities start with _______ and end with _________.",
+            "1": "Semicolon, Colon",
+            "2": "Semicolon, Ampersand",
+            "3": "Ampersand, Colon",
+            "4": "Ampersand, Semicolon",
+            "Correct": 4
+        },
+        {
+            "Question": "What must be done in order to implement Lexical Scoping?",
+            "1": "Get the object",
+            "2": "Dereference the current scope chain",
+            "3": "Reference the current scope chain",
+            "4": "Return the value",
+            "Correct": 3
+        },
+        {
+            "Question": "What is the purpose of the dynamic scoping?",
+            "1": "Variables can be declared outside the scope",
+            "2": "Variables must be declared outside the scope",
+            "3": "Variables cannot be declared outside the scope",
+            "4": "Variable cannot be declared within the function",
+            "Correct": 1
+        },
+        {
+            "Question": "The maximum number of global symbols a module can define is ____________",
+            "1": "2",
+            "2": "3",
+            "3": "1",
+            "4": "4",
+            "Correct": 3
+        },
+        {
+            "Question": "The unordered collection of properties, each of which has a name and a value is called _________",
+            "1": "String",
+            "2": "Object",
+            "3": "Serialized Object",
+            "4": "Array",
+            "Correct": 2
+        },
+        {
+            "Question": "The pop() method of the array does which of the following task?",
+            "1": "decrements the total length by 1",
+            "2": "increments the total length by 1",
+            "3": "prints the first element but no effect on the length",
+            "4": "updates the element",
+            "Correct": 1
+        },
+        {
+            "Question": "What will happen if reverse() and join() methods are used simultaneously?",
+            "1": "Reverses and stores in the same array",
+            "2": "Reverses and concatenates the elements of the array",
+            "3": "Reverses",
+            "4": "Stores the elements of an array in normal order",
+            "Correct": 1
+        },
+        {
+            "Question": "The method or operator used to identify the array is __________",
+            "1": "isarrayType()",
+            "2": "==",
+            "3": "===",
+            "4": "typeof",
+            "Correct": 4
+        },
+        {
+            "Question": "Do functions in JavaScript necessarily return a value?",
+            "1": "It is mandatory",
+            "2": "Not necessary",
+            "3": "Few functions return values by default",
+            "4": "some functions do not return any value",
+            "Correct": 3
+        },
+        {
+            "Question": "If you have a function f and an object o, you can define a method named m of o with ________",
+            "1": "o.m=m.f;",
+            "2": "o.m=f;",
+            "3": "o=f.m;",
+            "4": "o=f;",
+            "Correct": 2
+        }
+    ]
+}
